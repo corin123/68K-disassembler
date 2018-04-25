@@ -1,0 +1,4 @@
+# Ignore 68K list and source files
+*.S68
+*.L68
+
